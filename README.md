@@ -6,13 +6,13 @@
 
 # 📄 목차 (Contents)
 
-- [배포 전략](#배포-전략)
-- [시작하기](#시작하기)
-  - [전제 조건](#전제-조건)
-  - [설치 및 실행](#설치-및-실행)
-- [사용 방법](#사용-방법)
-- [개발 환경](#개발-환경)
-- [추후 개발 목표](#추후-개발-목표)
+- [배포 전략](#-배포-전략-deployment-strategy)
+- [시작하기](#-시작하기-getting-started)
+  - [전제 조건](#전제-조건-prerequisites)
+  - [설치 및 실행](#설치-및-실행-installation-and-execution)
+- [사용 방법](#-사용-방법-usage)
+- [개발 환경](#-개발-환경-development-environment)
+- [추후 개발 목표](#-추후-개발-목표--future-development-goals)
 
 
 
