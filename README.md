@@ -15,4 +15,4 @@
 
 ## 🔧 개발 중인 저장소로 이동하기 (Go to the Development Repository)
 
-1. [릴리즈 페이지](https://github.com/devdeankang/TimeLine_Organizer) 에 프로젝트 소스코드가 있습니다.
+1. [DEV 페이지](https://github.com/devdeankang/TimeLine_Organizer) 에 프로젝트 소스코드가 있습니다.
