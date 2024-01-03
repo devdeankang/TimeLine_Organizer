@@ -11,3 +11,8 @@
    - 예시: "0_20240101_파일명.png" (촬영 날짜 기준 정렬)
 
 **주의**: 절대 경로 내에 위치한 Pictures 디렉토리는 수정하거나 변경하지 마세요.
+
+
+## 🔧 개발 중인 저장소로 이동하기 (Go to the Development Repository)
+
+1. [릴리즈 페이지](https://github.com/devdeankang/TimeLine_Organizer) 에 프로젝트 소스코드가 있습니다.
