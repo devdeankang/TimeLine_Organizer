@@ -4,6 +4,8 @@
 
 
 
+
+
 # 📄 목차 (Contents)
 
 - [배포 전략](#-배포-전략-deployment-strategy)
@@ -16,9 +18,13 @@
 
 
 
+
+
 ## ⛏ 배포 전략 (Deployment Strategy)
 
 이 프로젝트는 Self-Contained Deployment (SCD) 방식으로 배포됩니다. 이는 하나의 실행 파일로 라이브러리를 패키징하여 추가적인 설치 과정 없이 바로 애플리케이션을 실행할 수 있게 합니다. 초기 프로젝트의 배포를 위해 인스톨러를 거치는 과정 대신 직접 실행 가능한 방식을 선택했습니다. SCD와 인스톨러 방식의 차이에 대한 더 자세한 설명은 [이 블로그](https://gameclientdevelop.tistory.com/37)에서 확인할 수 있습니다.
+
+
 
 
 
@@ -33,6 +39,8 @@
 1. [릴리즈 페이지](https://github.com/devdeankang/TimeLine_Organizer/tree/Release)에서 최신 릴리즈 파일을 다운로드합니다.
 
 2. 다운로드된 파일을 실행하여 프로그램을 시작합니다.
+
+
 
    
 
@@ -52,6 +60,8 @@
 
 
 
+
+
 ## 🛠 개발 환경 (Development Environment)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -59,6 +69,8 @@
 - ImageSharp 라이브러리
 
   
+
+
 
 
 ## ⚙ 추후 개발 목표  (Future Development Goals)
